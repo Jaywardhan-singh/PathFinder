@@ -1,4 +1,4 @@
-# Path-Finder: Your Travel Companion 🌍✈️  
+# Path Finder : Your Travel Companion 🌍✈️  
 **AI-Powered Trip Planner built with React, Firebase, and Google APIs**
 
 Path-Finder is a full-stack web application that helps users generate **personalized trip itineraries** using Google Places API and **Gemini AI**. It allows users to plan trips, explore destinations, and store their itineraries securely with Google authentication and Firebase.
